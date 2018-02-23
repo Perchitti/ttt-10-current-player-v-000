@@ -6,5 +6,5 @@ board.each do |turn|
 end
 end
 
-turn
+counter
 end
