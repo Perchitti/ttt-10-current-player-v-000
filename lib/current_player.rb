@@ -1,7 +1,7 @@
 turn_count(board)
 counter = 0
-board.each do |letter|
-  if letter = "X" || letter = "O"
+board.each do |turn|
+  if turn = "X" || turn = "O"
   counter +1
 end
 end
