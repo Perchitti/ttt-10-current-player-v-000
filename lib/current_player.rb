@@ -9,7 +9,7 @@ end
 
 
 def current_player(board)
-  if board[intefer] % 2 == 0
+  if board[integer] % 2 == 0
     turn_count(board)
 
 end
